@@ -1,3 +1,7 @@
+This repository is archived. The files here have been merged into [Sciencentistguy/systemd-units](https://github.com/Sciencentistguy/systemd-units).
+
+---
+
 # Minecraft server administration scripts
 A collection of scripts related to administration of minecraft servers
 ## `rcon.py`
